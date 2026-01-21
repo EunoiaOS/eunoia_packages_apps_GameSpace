@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="quick_start_apps_title">Ứng dụng bắt đầu nhanh</string>
+    <string name="quick_start_apps_summary">Chọn ứng dụng để khởi chạy nhanh</string>
     <string name="settings_title">Không gian trò chơi</string>
     <string name="settings_summary">Quản lý thiết lập trò chơi của bạn</string>
     <!-- Game options -->
@@ -25,7 +27,7 @@
     <string name="stay_awake_title">Không khóa màn hình</string>
     <string name="lock_gesture_title">Khóa cử chỉ</string>
     <string name="auto_brightness_disabled_title">Tắt độ sáng tự động</string>
-    <string name="three_screenshot_disabled_title">Tắt tính năng chụp ảnh màn hình</string>
+    <string name="three_screenshot_disabled_title">Tắt cử chỉ vuốt ba ngón tay</string>
     <string name="adb_disabled_title">Tắt gỡ lỗi USB</string>
     <string name="gamespace_menu_opacity_title">Độ mờ bảng điều khiển nổi</string>
     <!-- Notification Mode -->

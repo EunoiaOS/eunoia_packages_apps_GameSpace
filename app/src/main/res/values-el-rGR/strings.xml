@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="quick_start_apps_title">Εφαρμογές Γρήγορης Εκκίνησης</string>
+    <string name="quick_start_apps_summary">Επιλέξτε εφαρμογές για γρήγορη εκκίνηση</string>
     <string name="settings_title">Χώρος Παιχνιδιού</string>
     <string name="settings_summary">Διαχειριστείτε τις ρυθμίσεις παιχνιδιών σας</string>
     <!-- Game options -->
@@ -25,7 +27,7 @@
     <string name="stay_awake_title">Παραμονή σε λειτουργία</string>
     <string name="lock_gesture_title">Χειρονομία κλειδώματος</string>
     <string name="auto_brightness_disabled_title">Απενεργοποίηση αυτόματης φωτεινότητας</string>
-    <string name="three_screenshot_disabled_title">Απενεργοποίηση συρσίματος για στιγμιότυπο οθόνης</string>
+    <string name="three_screenshot_disabled_title">Απενεργοποιήστε τη χειρονομία ολίσθησης με τρία δάχτυλα</string>
     <string name="adb_disabled_title">Απενεργοποίηση εντοπισμού σφαλμάτων USB</string>
     <string name="gamespace_menu_opacity_title">Επίπεδο αδιαφάνειας μενού επικάλυψης</string>
     <!-- Notification Mode -->

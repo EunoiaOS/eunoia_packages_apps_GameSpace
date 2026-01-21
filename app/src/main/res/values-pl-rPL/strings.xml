@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="quick_start_apps_title">Aplikacje szybkiego startu</string>
+    <string name="quick_start_apps_summary">Wybierz aplikacje do szybkiego uruchamiania</string>
     <string name="settings_title">Przestrzeń gier</string>
     <string name="settings_summary">Zarządzaj konfiguracją gier</string>
     <!-- Game options -->
@@ -25,7 +27,7 @@
     <string name="stay_awake_title">Pozostaw włączony ekran</string>
     <string name="lock_gesture_title">Gest blokady</string>
     <string name="auto_brightness_disabled_title">Wyłącz automatyczną jasność</string>
-    <string name="three_screenshot_disabled_title">Wyłączenie funkcji przeciągnięcia palcem w celu wykonania zrzutu ekranu</string>
+    <string name="three_screenshot_disabled_title">Wyłącz gest przesuwania trzema palcami</string>
     <string name="adb_disabled_title">Wyłącz debugowanie USB</string>
     <string name="gamespace_menu_opacity_title">Poziom przezroczystości nakładki menu</string>
     <!-- Notification Mode -->

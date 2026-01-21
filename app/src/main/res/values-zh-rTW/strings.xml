@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="quick_start_apps_title">快速啟動應用程式</string>
+    <string name="quick_start_apps_summary">選擇要快速啟動的應用程式</string>
     <string name="settings_title">遊戲空間</string>
     <string name="settings_summary">管理您的遊戲設定</string>
     <!-- Game options -->
@@ -25,7 +27,7 @@
     <string name="stay_awake_title">螢幕保持開啟</string>
     <string name="lock_gesture_title">鎖定手勢</string>
     <string name="auto_brightness_disabled_title">停用自動亮度</string>
-    <string name="three_screenshot_disabled_title">停用滑動截圖手勢</string>
+    <string name="three_screenshot_disabled_title">停用三指滑動手勢</string>
     <string name="adb_disabled_title">停用 USB 偵錯</string>
     <string name="gamespace_menu_opacity_title">不透明度</string>
     <!-- Notification Mode -->

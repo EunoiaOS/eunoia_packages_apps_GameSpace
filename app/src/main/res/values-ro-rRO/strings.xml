@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="quick_start_apps_title">Pornire rapidă a aplicațiilor</string>
+    <string name="quick_start_apps_summary">Selectați aplicațiile pentru lansare rapidă</string>
     <string name="settings_title">Spațiu de jocuri</string>
     <string name="settings_summary">Gestionează-ți configurarea jocurilor</string>
     <!-- Game options -->
@@ -25,7 +27,7 @@
     <string name="stay_awake_title">Menține ecranul activ</string>
     <string name="lock_gesture_title">Blochează gesturile</string>
     <string name="auto_brightness_disabled_title">Dezactivează luminozitatea automată</string>
-    <string name="three_screenshot_disabled_title">Dezactivează glisarea pentru captură de ecran</string>
+    <string name="three_screenshot_disabled_title">Dezactivează gestul de trei degete</string>
     <string name="adb_disabled_title">Dezactivează depanarea USB</string>
     <string name="gamespace_menu_opacity_title">Opacitate pentru meniul suprapus</string>
     <!-- Notification Mode -->
